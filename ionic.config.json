@@ -1,0 +1,7 @@
+{
+  "name": "spiritual",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
